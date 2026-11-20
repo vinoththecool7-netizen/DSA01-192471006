@@ -7,13 +7,13 @@ Five C++ assignments with source code, reports, and validation evidence.
 
 ## Assignments
 
-| Assignment | Topics | Guide | Original repository |
-| --- | --- | --- | --- |
-| [1](assignments/assignment-1/) | Namma Metro smart-card fares, integer arithmetic, and object-oriented design | [Build and results](assignments/assignment-1/README.md) | [Assignment 1](https://github.com/vinoththecool7-netizen/DSA01-192471006-Assignment1) |
-| [2](assignments/assignment-2/) | References, function overloading, transaction and ticketing examples, and circular buffers | [Build and results](assignments/assignment-2/README.md) | [Assignment 2](https://github.com/vinoththecool7-netizen/DSA01-192471006-Assignment2) |
-| [3](assignments/assignment-3/) | Constructors, destructors, deep copying, and operator overloading | [Build and results](assignments/assignment-3/README.md) | [Assignment 3](https://github.com/vinoththecool7-netizen/DSA01-192471006-Assignment3) |
-| [4](assignments/assignment-4/) | Reusable class hierarchies, inheritance, and object lifetimes | [Build and results](assignments/assignment-4/README.md) | [Assignment 4](https://github.com/vinoththecool7-netizen/DSA01-192471006-Assignment4) |
-| [5](assignments/assignment-5/) | Runtime polymorphism, virtual destructors, and exception handling | [Build and results](assignments/assignment-5/README.md) | [Assignment 5](https://github.com/vinoththecool7-netizen/DSA01-192471006-Assignment5) |
+| Assignment | Topics | Guide |
+| --- | --- | --- |
+| [1](assignments/assignment-1/) | Namma Metro smart-card fares, integer arithmetic, and object-oriented design | [Build and results](assignments/assignment-1/README.md) |
+| [2](assignments/assignment-2/) | References, function overloading, transaction and ticketing examples, and circular buffers | [Build and results](assignments/assignment-2/README.md) |
+| [3](assignments/assignment-3/) | Constructors, destructors, deep copying, and operator overloading | [Build and results](assignments/assignment-3/README.md) |
+| [4](assignments/assignment-4/) | Reusable class hierarchies, inheritance, and object lifetimes | [Build and results](assignments/assignment-4/README.md) |
+| [5](assignments/assignment-5/) | Runtime polymorphism, virtual destructors, and exception handling | [Build and results](assignments/assignment-5/README.md) |
 
 ## Build and run
 
